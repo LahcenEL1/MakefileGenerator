@@ -30,8 +30,3 @@
     * Rajouter la possibilité de prendre en compte les répertoires avec des sous-répertoires.
     * De réaliser des fonctionnalités supplémentaires pour qu'il soit fonctionnel avec le C++.
 
-##	Bilan par rapport au travail en binôme
-* 
-    * Nous avons appris de nos erreurs passé, nous avions des problèmes d'organisation, et nous cherchions à travailler ensemble en présentiel. 
-    * Cependant cette année nous avons priorisé des options tel qu'un dépôt git, mais également l'extention liveShare qui nous as permis de travaillé simultanément sur un même fichier.
-    * Enfin, ces outils cumulé et une bonne répartition des tâches nous as permis de travailler de manière beaucoup plus optimale, nous nous sommes entraidé et avons renforcer nos acquis.
