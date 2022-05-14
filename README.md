@@ -1,6 +1,6 @@
 -------------------------------------------------
 # 					PROJET SHELL
-# 		PERGAUD Sylvain / EL OUARDI Lahcen
+# 		PERGAUD Sylvain / EL OUARDI Lahcen 
 -------------------------------------------------
 
 ##	Conclusion / Bilan sur le produit final
@@ -29,4 +29,7 @@
 * 
     * Rajouter la possibilité de prendre en compte les répertoires avec des sous-répertoires.
     * De réaliser des fonctionnalités supplémentaires pour qu'il soit fonctionnel avec le C++.
+
+
+
 
